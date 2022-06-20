@@ -1,4 +1,4 @@
-# 注册Github不为什么，就是为了方便自己使用
+# Quantumult X教程收集
 # 收集Quantumult X规则教程
 # 收集机场教程
 
