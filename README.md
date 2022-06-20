@@ -1,6 +1,5 @@
-# Quantumult X教程收集
 # 收集Quantumult X规则教程
-# 收集机场教程
+# 个人自用机场
 
 
 
