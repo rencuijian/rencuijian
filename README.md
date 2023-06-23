@@ -1,4 +1,4 @@
-# 收集Quantumult X规则教程
+# 圈X规则教程
 
 <!--
 **rencuijian/rencuijian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
